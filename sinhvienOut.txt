@@ -1,0 +1,5 @@
+13E, 18150060, Nguyen Minh Hoang, 2/12/1996, 7
+13C, 18150066, Trinh Van An, 24/10/1997, 6
+13B, 18150063, Hoang Xuan Dat, 15/6/2001, 8
+13A, 18150069, Tran Van Minh, 2/10/1995, 9
+13D, 18150068, Nguyen Duc Duy, 22/4/2000, 8

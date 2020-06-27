@@ -1,0 +1,12 @@
+13E, 18150060, nguyen Minh hoang, 02/12/1996, 7.0
+13C, 18150066, Trinh van An, 24/10/1997, 6.0
+13B, 18150063, hoang Xuan Dat, 15/06/2001, 8.0
+13A, 18150069, Tran Van Minh, 02/10/1995, 9.0
+13D, 18150068, nguyen duc duy, 22/04/2000, 8.0
+13E, 18150060, nguyen Minh hoang, 02/12/1996, 7.0
+13C, 18150066, Trinh van An, 24/10/1997, 6.0
+13B, 18150063, hoang Xuan Dat, 15/06/2001, 8.0
+13A, 18150069, Tran Van Minh, 02/10/1995, 9.0
+13D, 18150068, nguyen duc duy, 22/04/2000, 8.0
+
+

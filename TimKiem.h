@@ -1,6 +1,6 @@
 #ifndef TIMKIEM_H
 #define TIMKIEM_H
-
+// nice bro
 #include "QLSV.h"
 #include <string.h>
 
